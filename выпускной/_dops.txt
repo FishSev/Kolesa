@@ -1,0 +1,6 @@
+go get -u gopkg.in/telebot.v3
+go get github.com/BurntSushi/toml@latest
+go get gorm.io/gorm
+go get gorm.io/driver/sqlite
+
+go run main.go --port=1234 --config="config/local.toml" 

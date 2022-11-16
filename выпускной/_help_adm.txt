@@ -1,0 +1,2 @@
+composer require slim/slim
+composer dump-autoload

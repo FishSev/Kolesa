@@ -1,0 +1,50 @@
+Сгененрировать ключ и добавить его на сервер
+
+sudo apt-get update && sudo apt-get install openssh-client
+ssh-keygen
+ssh-copy-id -i ~/.ssh/id_rsa.pub root@176.57.69.55
+
+-----
+
+Работа с несколькими терминалами
+
+запуск : screen
+просмотр : screen -ls
+возвращение : screen -r id
+выход : screen ctrl+a d
+
+-----
+
+Работа с контейнерами докера
+
+строим образ: docker build -t hello:v1 .
+запускаем контейнер: docker run --env PORT=8888 -it --rm -p 8888:8888 hello:v1
+
+добавить пакет в вендор
+# RUN go get github.com/BurntSushi/toml@latest
+# RUN go mod vendor
+
+записать файл
+# RUN mkdir config
+# RUN echo "Port=\"$PORT\"" > ./config/port.toml
+
+остановить все контейнеры: docker stop $(docker ps -a -q)
+удалить все контейнеры: docker rm $(docker ps -a -q)
+удалить все образы: docker rmi $(docker images -a -q)
+
+-----
+установка необходимых пакетов (PHP, mysql, apache2)
+
+sudo tasksel install lamp-server
+
+-----
+
+Работа с apache на сервере
+
+sudo systemctl start apache2
+sudo systemctl stop apache2
+
+-----
+трассировка сервера
+
+tracert 176.57.69.55
