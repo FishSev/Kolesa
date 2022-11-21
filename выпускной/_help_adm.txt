@@ -1,2 +1,5 @@
 composer require slim/slim
+composer require guzzlehttp/guzzle:^7.5
+composer require yosymfony/toml
+
 composer dump-autoload
