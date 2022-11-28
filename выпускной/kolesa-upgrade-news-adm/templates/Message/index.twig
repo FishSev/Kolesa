@@ -1,0 +1,23 @@
+{% extends "base.twig" %}
+
+{% block body %}
+<input type="button" onclick="location.href='/';" value="Home" class="btn"/>
+<br>
+    <form method="post" action="/messages/send" >
+        <div class="mb-3">
+            <p><b>Заголовок вашего сообщения:</b></p>
+            <input name="message[title]" type="text" class="form-control"  placeholder="Введите заголовок"  value="{{message.title}}">
+        </div>
+        <div class="mb-3">
+             <p><b>Ваше сообщение</b></p>
+    <p><textarea rows="10" cols="45" name="message[body]" placeholder="Write your message" required></textarea></p>
+            {% if errors.body %}
+                <div style="color: red">{{ errors.body }}</div>
+            {% endif %}
+        </div>
+        {% if errors.messageLen %}
+            <div style="color: red">{{ errors.messageLen }}</div>
+        {% endif %}
+        <button class="w-100 btn btn-primary btn-lg" type="submit">Send</button>
+    </form>
+{% endblock %}

@@ -1,0 +1,8 @@
+{% extends "base.twig" %}
+
+{% block body %}
+    <h1>Вы находитесь в админке</h1>
+    <div style="color: white;background-color:DarkGreen; text-align:center;font-weight: bold;">Система готова к работе</div><br>
+            <input type="button" onclick="location.href='/messages';" value="Список сообщений" class="btn"/> 
+            <input type="button" onclick="location.href='/messages/new';" value="Создать сообщение" class="btn"/>
+{% endblock %}

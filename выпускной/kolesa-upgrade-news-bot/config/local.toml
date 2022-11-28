@@ -1,0 +1,9 @@
+[Bot]
+BotToken=""
+
+[DB]
+User="root"
+Password=""
+Host="localhost"
+Port="3306"
+Name="news_bot"

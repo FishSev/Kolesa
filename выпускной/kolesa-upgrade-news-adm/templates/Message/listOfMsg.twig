@@ -1,0 +1,19 @@
+{% extends "base.twig" %}
+
+{% block body %}
+<input type="button" onclick="location.href='/';" value="Home" class="btn"/>
+<br><br>
+<form method="get" action="/messages" >
+<table border=1> 
+  <tr>
+    <td><b>Title</b></td><td><b>Body</b></td></tr>
+    {% for message in messages %}
+    <td>{{ message.getTitle() }}</td>
+    <td>{{message.getBody() }}</td>
+  </tr>
+      {% endfor %}
+    </td>
+  </tr>
+</table>
+{% endblock %}
+

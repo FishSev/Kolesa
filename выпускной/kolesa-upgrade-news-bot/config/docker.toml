@@ -1,0 +1,9 @@
+[Bot]
+Token=""
+
+[DB]
+User="root"
+Password=""
+Host="host.docker.internal"
+Port="3306"
+Name="news_bot"

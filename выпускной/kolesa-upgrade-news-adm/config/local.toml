@@ -1,0 +1,13 @@
+[DB]
+host='localhost'
+name='news'
+user='root'
+password=''
+
+[ChatClient]
+base_uri="http://localhost"
+timeout= 2.0
+verify= false
+
+[ChatService]
+proxy = "localhost:8888"
