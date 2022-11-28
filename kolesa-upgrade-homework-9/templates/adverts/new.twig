@@ -1,0 +1,42 @@
+{% extends "base.twig" %}
+
+{% block body %}
+    <h1>Подать новое объявление</h1>
+
+    {% if errors is not empty %}
+        <div style="color: white;background-color:DarkRed; text-align:center;font-weight: bold;">Не могу создать!</div><br>
+    {% endif %}
+    <form action="/adverts" method="post">
+        <div>
+            <label>
+                Заголовок *
+                <input type="text" name="advert[title]" value="{{ data.title ?? '' }}">
+                {% if errors.title %}
+                    <div style="color: DarkRed">^^^ {{ errors.title }}</div>
+                {% endif %}
+            </label>
+        </div>
+        <br>
+        <div>
+            <label>
+                Описание *
+                <input type="text" name="advert[description]" value="{{ data.description ?? '' }}">
+                {% if errors.description %}
+                    <div style="color: DarkRed">^^^ {{ errors.description }}</div>
+                {% endif %}
+            </label>
+        </div>
+        <br>
+        <div>
+            <label>
+                Цена *
+                <input type="number" name="advert[price]" value="{{ data.price ?? 0 }}">
+                {% if errors.price %}
+                    <div style="color: DarkRed">^^^ {{ errors.price }}</div>
+                {% endif %}
+            </label>
+        </div>
+        <br>
+        <input type="submit" value="Create">
+    </form>
+{% endblock %}

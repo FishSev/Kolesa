@@ -1,0 +1,560 @@
+♣7,♦8,♥8,♣Q,♦J,(1) One pair
+♦3,♣4,♠J,♣8,♦J,(1) One pair
+♠K,♣7,♠9,♠J,♦J,(1) One pair
+♠K,♣7,♠9,♣8,♥8,(1) One pair
+♠K,♣7,♦3,♦8,♣8,(1) One pair
+♠K,♣7,♦3,♦8,♥8,(1) One pair
+♠K,♣7,♦3,♠J,♦J,(1) One pair
+♠K,♣7,♦3,♣8,♥8,(1) One pair
+♠K,♣7,♠10,♦8,♣8,(1) One pair
+♠K,♣7,♠10,♦8,♥8,(1) One pair
+♠K,♣7,♠10,♠J,♦J,(1) One pair
+♠K,♣7,♠10,♣8,♥8,(1) One pair
+♠K,♣7,♣4,♦8,♣8,(1) One pair
+♠K,♣7,♣4,♦8,♥8,(1) One pair
+♠K,♣7,♣4,♠J,♦J,(1) One pair
+♠K,♣7,♣4,♣8,♥8,(1) One pair
+♠K,♣7,♦8,♣5,♣8,(1) One pair
+♠K,♣7,♦8,♣5,♥8,(1) One pair
+♠K,♣7,♦8,♠J,♣8,(1) One pair
+♠K,♣7,♦8,♠J,♥8,(1) One pair
+♠K,♣7,♦8,♠J,♦J,(1) One pair
+♣5,♣8,♥8,♣Q,♦J,(1) One pair
+♠K,♣7,♦8,♣8,♣Q,(1) One pair
+♠K,♣7,♦8,♣8,♦J,(1) One pair
+♠K,♣7,♦8,♥8,♣Q,(1) One pair
+♠K,♣7,♦8,♥8,♦J,(1) One pair
+♠K,♣7,♣5,♠J,♦J,(1) One pair
+♠K,♣7,♣5,♣8,♥8,(1) One pair
+♠K,♣7,♠J,♣8,♥8,(1) One pair
+♠K,♣7,♠J,♣8,♦J,(1) One pair
+♠K,♣7,♠J,♥8,♦J,(1) One pair
+♠K,♣7,♠J,♣Q,♦J,(1) One pair
+♠K,♣7,♣8,♥8,♣Q,(1) One pair
+♠K,♣7,♣8,♥8,♦J,(1) One pair
+♠K,♠9,♦3,♦8,♣8,(1) One pair
+♠K,♠9,♦3,♦8,♥8,(1) One pair
+♠K,♠9,♦3,♠J,♦J,(1) One pair
+♠K,♠9,♦3,♣8,♥8,(1) One pair
+♠K,♠9,♠10,♦8,♣8,(1) One pair
+♠K,♠9,♠10,♦8,♥8,(1) One pair
+♣5,♠J,♥8,♣Q,♦J,(1) One pair
+♠K,♠9,♠10,♠J,♦J,(1) One pair
+♠K,♠9,♠10,♣8,♥8,(1) One pair
+♣5,♠J,♣8,♣Q,♦J,(1) One pair
+♠K,♠9,♣4,♦8,♣8,(1) One pair
+♠K,♠9,♣4,♦8,♥8,(1) One pair
+♠K,♠9,♣4,♠J,♦J,(1) One pair
+♠K,♠9,♣4,♣8,♥8,(1) One pair
+♠K,♠9,♦8,♣5,♣8,(1) One pair
+♠K,♠9,♦8,♣5,♥8,(1) One pair
+♠K,♠9,♦8,♠J,♣8,(1) One pair
+♠K,♠9,♦8,♠J,♥8,(1) One pair
+♠K,♠9,♦8,♠J,♦J,(1) One pair
+♣5,♠J,♣8,♥8,♣Q,(1) One pair
+♠K,♠9,♦8,♣8,♣Q,(1) One pair
+♠K,♠9,♦8,♣8,♦J,(1) One pair
+♠K,♠9,♦8,♥8,♣Q,(1) One pair
+♠K,♠9,♦8,♥8,♦J,(1) One pair
+♠K,♠9,♣5,♠J,♦J,(1) One pair
+♠K,♠9,♣5,♣8,♥8,(1) One pair
+♠K,♠9,♠J,♣8,♥8,(1) One pair
+♠K,♠9,♠J,♣8,♦J,(1) One pair
+♠K,♠9,♠J,♥8,♦J,(1) One pair
+♠K,♠9,♠J,♣Q,♦J,(1) One pair
+♠K,♠9,♣8,♥8,♣Q,(1) One pair
+♠K,♠9,♣8,♥8,♦J,(1) One pair
+♠K,♦3,♠10,♦8,♣8,(1) One pair
+♠K,♦3,♠10,♦8,♥8,(1) One pair
+♠K,♦3,♠10,♠J,♦J,(1) One pair
+♠K,♦3,♠10,♣8,♥8,(1) One pair
+♠K,♦3,♣4,♦8,♣8,(1) One pair
+♠K,♦3,♣4,♦8,♥8,(1) One pair
+♠K,♦3,♣4,♠J,♦J,(1) One pair
+♠K,♦3,♣4,♣8,♥8,(1) One pair
+♠K,♦3,♦8,♣5,♣8,(1) One pair
+♠K,♦3,♦8,♣5,♥8,(1) One pair
+♠K,♦3,♦8,♠J,♣8,(1) One pair
+♠K,♦3,♦8,♠J,♥8,(1) One pair
+♠K,♦3,♦8,♠J,♦J,(1) One pair
+♦8,♣5,♥8,♣Q,♦J,(1) One pair
+♠K,♦3,♦8,♣8,♣Q,(1) One pair
+♠K,♦3,♦8,♣8,♦J,(1) One pair
+♠K,♦3,♦8,♥8,♣Q,(1) One pair
+♠K,♦3,♦8,♥8,♦J,(1) One pair
+♠K,♦3,♣5,♠J,♦J,(1) One pair
+♠K,♦3,♣5,♣8,♥8,(1) One pair
+♠K,♦3,♠J,♣8,♥8,(1) One pair
+♠K,♦3,♠J,♣8,♦J,(1) One pair
+♠K,♦3,♠J,♥8,♦J,(1) One pair
+♠K,♦3,♠J,♣Q,♦J,(1) One pair
+♠K,♦3,♣8,♥8,♣Q,(1) One pair
+♠K,♦3,♣8,♥8,♦J,(1) One pair
+♠K,♠10,♣4,♦8,♣8,(1) One pair
+♠K,♠10,♣4,♦8,♥8,(1) One pair
+♠K,♠10,♣4,♠J,♦J,(1) One pair
+♠K,♠10,♣4,♣8,♥8,(1) One pair
+♠K,♠10,♦8,♣5,♣8,(1) One pair
+♠K,♠10,♦8,♣5,♥8,(1) One pair
+♠K,♠10,♦8,♠J,♣8,(1) One pair
+♠K,♠10,♦8,♠J,♥8,(1) One pair
+♠K,♠10,♦8,♠J,♦J,(1) One pair
+♦8,♣5,♣8,♣Q,♦J,(1) One pair
+♠K,♠10,♦8,♣8,♣Q,(1) One pair
+♠K,♠10,♦8,♣8,♦J,(1) One pair
+♠K,♠10,♦8,♥8,♣Q,(1) One pair
+♠K,♠10,♦8,♥8,♦J,(1) One pair
+♠K,♠10,♣5,♠J,♦J,(1) One pair
+♠K,♠10,♣5,♣8,♥8,(1) One pair
+♠K,♠10,♠J,♣8,♥8,(1) One pair
+♠K,♠10,♠J,♣8,♦J,(1) One pair
+♠K,♠10,♠J,♥8,♦J,(1) One pair
+♠K,♠10,♠J,♣Q,♦J,(1) One pair
+♠K,♠10,♣8,♥8,♣Q,(1) One pair
+♠K,♠10,♣8,♥8,♦J,(1) One pair
+♠K,♣4,♦8,♣5,♣8,(1) One pair
+♠K,♣4,♦8,♣5,♥8,(1) One pair
+♠K,♣4,♦8,♠J,♣8,(1) One pair
+♠K,♣4,♦8,♠J,♥8,(1) One pair
+♠K,♣4,♦8,♠J,♦J,(1) One pair
+♦8,♣5,♠J,♣Q,♦J,(1) One pair
+♠K,♣4,♦8,♣8,♣Q,(1) One pair
+♠K,♣4,♦8,♣8,♦J,(1) One pair
+♠K,♣4,♦8,♥8,♣Q,(1) One pair
+♠K,♣4,♦8,♥8,♦J,(1) One pair
+♠K,♣4,♣5,♠J,♦J,(1) One pair
+♠K,♣4,♣5,♣8,♥8,(1) One pair
+♠K,♣4,♠J,♣8,♥8,(1) One pair
+♠K,♣4,♠J,♣8,♦J,(1) One pair
+♠K,♣4,♠J,♥8,♦J,(1) One pair
+♠K,♣4,♠J,♣Q,♦J,(1) One pair
+♠K,♣4,♣8,♥8,♣Q,(1) One pair
+♠K,♣4,♣8,♥8,♦J,(1) One pair
+♠K,♦8,♣5,♠J,♣8,(1) One pair
+♠K,♦8,♣5,♠J,♥8,(1) One pair
+♠K,♦8,♣5,♠J,♦J,(1) One pair
+♦8,♣5,♠J,♥8,♣Q,(1) One pair
+♠K,♦8,♣5,♣8,♣Q,(1) One pair
+♠K,♦8,♣5,♣8,♦J,(1) One pair
+♠K,♦8,♣5,♥8,♣Q,(1) One pair
+♠K,♦8,♣5,♥8,♦J,(1) One pair
+♦8,♣5,♠J,♣8,♣Q,(1) One pair
+♠K,♦8,♠J,♣8,♣Q,(1) One pair
+♣4,♣8,♥8,♣Q,♦J,(1) One pair
+♠K,♦8,♠J,♥8,♣Q,(1) One pair
+♣4,♠J,♥8,♣Q,♦J,(1) One pair
+♠K,♦8,♠J,♣Q,♦J,(1) One pair
+♣4,♠J,♣8,♣Q,♦J,(1) One pair
+♣4,♠J,♣8,♥8,♣Q,(1) One pair
+♠K,♦8,♣8,♣Q,♦J,(1) One pair
+♠K,♦8,♥8,♣Q,♦J,(1) One pair
+♠K,♣5,♠J,♣8,♥8,(1) One pair
+♠K,♣5,♠J,♣8,♦J,(1) One pair
+♠K,♣5,♠J,♥8,♦J,(1) One pair
+♠K,♣5,♠J,♣Q,♦J,(1) One pair
+♠K,♣5,♣8,♥8,♣Q,(1) One pair
+♠K,♣5,♣8,♥8,♦J,(1) One pair
+♠K,♠J,♣8,♥8,♣Q,(1) One pair
+♣4,♣5,♣8,♥8,♦J,(1) One pair
+♠K,♠J,♣8,♣Q,♦J,(1) One pair
+♠K,♠J,♥8,♣Q,♦J,(1) One pair
+♠K,♣8,♥8,♣Q,♦J,(1) One pair
+♣7,♠9,♦3,♦8,♣8,(1) One pair
+♣7,♠9,♦3,♦8,♥8,(1) One pair
+♣7,♠9,♦3,♠J,♦J,(1) One pair
+♣7,♠9,♦3,♣8,♥8,(1) One pair
+♣4,♣5,♣8,♥8,♣Q,(1) One pair
+♣7,♠9,♠10,♦8,♣8,(1) One pair
+♣7,♠9,♠10,♦8,♥8,(1) One pair
+♣4,♣5,♠J,♣Q,♦J,(1) One pair
+♣4,♣5,♠J,♥8,♦J,(1) One pair
+♣4,♣5,♠J,♣8,♦J,(1) One pair
+♣7,♠9,♠10,♠J,♦J,(1) One pair
+♣7,♠9,♠10,♣8,♥8,(1) One pair
+♣4,♣5,♠J,♣8,♥8,(1) One pair
+♣4,♦8,♥8,♣Q,♦J,(1) One pair
+♣7,♠9,♣4,♦8,♣8,(1) One pair
+♣7,♠9,♣4,♦8,♥8,(1) One pair
+♣7,♠9,♣4,♠J,♦J,(1) One pair
+♣7,♠9,♣4,♣8,♥8,(1) One pair
+♣7,♠9,♦8,♣5,♣8,(1) One pair
+♣7,♠9,♦8,♣5,♥8,(1) One pair
+♣7,♠9,♦8,♠J,♣8,(1) One pair
+♣7,♠9,♦8,♠J,♥8,(1) One pair
+♣7,♠9,♦8,♠J,♦J,(1) One pair
+♣4,♦8,♣8,♣Q,♦J,(1) One pair
+♣7,♠9,♦8,♣8,♣Q,(1) One pair
+♣7,♠9,♦8,♣8,♦J,(1) One pair
+♣7,♠9,♦8,♥8,♣Q,(1) One pair
+♣7,♠9,♦8,♥8,♦J,(1) One pair
+♣7,♠9,♣5,♠J,♦J,(1) One pair
+♣7,♠9,♣5,♣8,♥8,(1) One pair
+♣7,♠9,♠J,♣8,♥8,(1) One pair
+♣7,♠9,♠J,♣8,♦J,(1) One pair
+♣7,♠9,♠J,♥8,♦J,(1) One pair
+♣7,♠9,♠J,♣Q,♦J,(1) One pair
+♣7,♠9,♣8,♥8,♣Q,(1) One pair
+♣7,♠9,♣8,♥8,♦J,(1) One pair
+♣7,♦3,♠10,♦8,♣8,(1) One pair
+♣7,♦3,♠10,♦8,♥8,(1) One pair
+♣7,♦3,♠10,♠J,♦J,(1) One pair
+♣7,♦3,♠10,♣8,♥8,(1) One pair
+♣7,♦3,♣4,♦8,♣8,(1) One pair
+♣7,♦3,♣4,♦8,♥8,(1) One pair
+♣7,♦3,♣4,♠J,♦J,(1) One pair
+♣7,♦3,♣4,♣8,♥8,(1) One pair
+♣7,♦3,♦8,♣5,♣8,(1) One pair
+♣7,♦3,♦8,♣5,♥8,(1) One pair
+♣7,♦3,♦8,♠J,♣8,(1) One pair
+♣7,♦3,♦8,♠J,♥8,(1) One pair
+♣7,♦3,♦8,♠J,♦J,(1) One pair
+♣4,♦8,♠J,♣Q,♦J,(1) One pair
+♣7,♦3,♦8,♣8,♣Q,(1) One pair
+♣7,♦3,♦8,♣8,♦J,(1) One pair
+♣7,♦3,♦8,♥8,♣Q,(1) One pair
+♣7,♦3,♦8,♥8,♦J,(1) One pair
+♣7,♦3,♣5,♠J,♦J,(1) One pair
+♣7,♦3,♣5,♣8,♥8,(1) One pair
+♣7,♦3,♠J,♣8,♥8,(1) One pair
+♣7,♦3,♠J,♣8,♦J,(1) One pair
+♣7,♦3,♠J,♥8,♦J,(1) One pair
+♣7,♦3,♠J,♣Q,♦J,(1) One pair
+♣7,♦3,♣8,♥8,♣Q,(1) One pair
+♣7,♦3,♣8,♥8,♦J,(1) One pair
+♣7,♠10,♣4,♦8,♣8,(1) One pair
+♣7,♠10,♣4,♦8,♥8,(1) One pair
+♣7,♠10,♣4,♠J,♦J,(1) One pair
+♣7,♠10,♣4,♣8,♥8,(1) One pair
+♣7,♠10,♦8,♣5,♣8,(1) One pair
+♣7,♠10,♦8,♣5,♥8,(1) One pair
+♣7,♠10,♦8,♠J,♣8,(1) One pair
+♣7,♠10,♦8,♠J,♥8,(1) One pair
+♣7,♠10,♦8,♠J,♦J,(1) One pair
+♣4,♦8,♠J,♥8,♣Q,(1) One pair
+♣7,♠10,♦8,♣8,♣Q,(1) One pair
+♣7,♠10,♦8,♣8,♦J,(1) One pair
+♣7,♠10,♦8,♥8,♣Q,(1) One pair
+♣7,♠10,♦8,♥8,♦J,(1) One pair
+♣7,♠10,♣5,♠J,♦J,(1) One pair
+♣7,♠10,♣5,♣8,♥8,(1) One pair
+♣7,♠10,♠J,♣8,♥8,(1) One pair
+♣7,♠10,♠J,♣8,♦J,(1) One pair
+♣7,♠10,♠J,♥8,♦J,(1) One pair
+♣7,♠10,♠J,♣Q,♦J,(1) One pair
+♣7,♠10,♣8,♥8,♣Q,(1) One pair
+♣7,♠10,♣8,♥8,♦J,(1) One pair
+♣7,♣4,♦8,♣5,♣8,(1) One pair
+♣7,♣4,♦8,♣5,♥8,(1) One pair
+♣7,♣4,♦8,♠J,♣8,(1) One pair
+♣7,♣4,♦8,♠J,♥8,(1) One pair
+♣7,♣4,♦8,♠J,♦J,(1) One pair
+♣4,♦8,♠J,♣8,♣Q,(1) One pair
+♣7,♣4,♦8,♣8,♣Q,(1) One pair
+♣7,♣4,♦8,♣8,♦J,(1) One pair
+♣7,♣4,♦8,♥8,♣Q,(1) One pair
+♣7,♣4,♦8,♥8,♦J,(1) One pair
+♣7,♣4,♣5,♠J,♦J,(1) One pair
+♣7,♣4,♣5,♣8,♥8,(1) One pair
+♣4,♦8,♣5,♥8,♦J,(1) One pair
+♣7,♣4,♠J,♣8,♥8,(1) One pair
+♣7,♣4,♠J,♣8,♦J,(1) One pair
+♣7,♣4,♠J,♥8,♦J,(1) One pair
+♣7,♣4,♠J,♣Q,♦J,(1) One pair
+♣7,♣4,♣8,♥8,♣Q,(1) One pair
+♣7,♣4,♣8,♥8,♦J,(1) One pair
+♣7,♦8,♣5,♠J,♣8,(1) One pair
+♣7,♦8,♣5,♠J,♥8,(1) One pair
+♣7,♦8,♣5,♠J,♦J,(1) One pair
+♣4,♦8,♣5,♥8,♣Q,(1) One pair
+♣7,♦8,♣5,♣8,♣Q,(1) One pair
+♣7,♦8,♣5,♣8,♦J,(1) One pair
+♣7,♦8,♣5,♥8,♣Q,(1) One pair
+♣7,♦8,♣5,♥8,♦J,(1) One pair
+♣4,♦8,♣5,♣8,♦J,(1) One pair
+♣7,♦8,♠J,♣8,♣Q,(1) One pair
+♣4,♦8,♣5,♣8,♣Q,(1) One pair
+♣7,♦8,♠J,♥8,♣Q,(1) One pair
+♣4,♦8,♣5,♠J,♦J,(1) One pair
+♣7,♦8,♠J,♣Q,♦J,(1) One pair
+♠9,♣5,♠J,♣8,♥8,(1) One pair
+♣4,♦8,♣5,♠J,♥8,(1) One pair
+♠K,♣7,♠9,♦8,♥8,(1) One pair
+♠K,♣7,♠9,♦8,♣8,(1) One pair
+♣7,♣5,♠J,♣8,♥8,(1) One pair
+♣7,♣5,♠J,♣8,♦J,(1) One pair
+♣7,♣5,♠J,♥8,♦J,(1) One pair
+♣7,♣5,♠J,♣Q,♦J,(1) One pair
+♣7,♣5,♣8,♥8,♣Q,(1) One pair
+♣7,♣5,♣8,♥8,♦J,(1) One pair
+♣7,♠J,♣8,♥8,♣Q,(1) One pair
+♣4,♦8,♣5,♠J,♣8,(1) One pair
+♣7,♠J,♣8,♣Q,♦J,(1) One pair
+♣7,♠J,♥8,♣Q,♦J,(1) One pair
+♣7,♣8,♥8,♣Q,♦J,(1) One pair
+♠9,♦3,♠10,♦8,♣8,(1) One pair
+♠9,♦3,♠10,♦8,♥8,(1) One pair
+♠9,♦3,♠10,♠J,♦J,(1) One pair
+♠9,♦3,♠10,♣8,♥8,(1) One pair
+♠9,♦3,♣4,♦8,♣8,(1) One pair
+♠9,♦3,♣4,♦8,♥8,(1) One pair
+♠9,♦3,♣4,♠J,♦J,(1) One pair
+♠9,♦3,♣4,♣8,♥8,(1) One pair
+♠9,♦3,♦8,♣5,♣8,(1) One pair
+♠9,♦3,♦8,♣5,♥8,(1) One pair
+♠9,♦3,♦8,♠J,♣8,(1) One pair
+♠9,♦3,♦8,♠J,♥8,(1) One pair
+♠9,♦3,♦8,♠J,♦J,(1) One pair
+♠10,♣8,♥8,♣Q,♦J,(1) One pair
+♠9,♦3,♦8,♣8,♣Q,(1) One pair
+♠9,♦3,♦8,♣8,♦J,(1) One pair
+♠9,♦3,♦8,♥8,♣Q,(1) One pair
+♠9,♦3,♦8,♥8,♦J,(1) One pair
+♠9,♦3,♣5,♠J,♦J,(1) One pair
+♠9,♦3,♣5,♣8,♥8,(1) One pair
+♠9,♦3,♠J,♣8,♥8,(1) One pair
+♠9,♦3,♠J,♣8,♦J,(1) One pair
+♠9,♦3,♠J,♥8,♦J,(1) One pair
+♠9,♦3,♠J,♣Q,♦J,(1) One pair
+♠9,♦3,♣8,♥8,♣Q,(1) One pair
+♠9,♦3,♣8,♥8,♦J,(1) One pair
+♠9,♠10,♣4,♦8,♣8,(1) One pair
+♠9,♠10,♣4,♦8,♥8,(1) One pair
+♠9,♠10,♣4,♠J,♦J,(1) One pair
+♠9,♠10,♣4,♣8,♥8,(1) One pair
+♠9,♠10,♦8,♣5,♣8,(1) One pair
+♠9,♠10,♦8,♣5,♥8,(1) One pair
+♠9,♠10,♦8,♠J,♣8,(1) One pair
+♠9,♠10,♦8,♠J,♥8,(1) One pair
+♠10,♠J,♥8,♣Q,♦J,(1) One pair
+♠9,♠10,♦8,♠J,♦J,(1) One pair
+♠10,♠J,♣8,♣Q,♦J,(1) One pair
+♠9,♠10,♦8,♣8,♣Q,(1) One pair
+♠9,♠10,♦8,♣8,♦J,(1) One pair
+♠9,♠10,♦8,♥8,♣Q,(1) One pair
+♠9,♠10,♦8,♥8,♦J,(1) One pair
+♠10,♠J,♣8,♥8,♣Q,(1) One pair
+♠9,♠10,♣5,♠J,♦J,(1) One pair
+♠9,♠10,♣5,♣8,♥8,(1) One pair
+♠9,♠10,♠J,♣8,♥8,(1) One pair
+♠10,♣5,♣8,♥8,♦J,(1) One pair
+♠9,♠10,♠J,♣8,♦J,(1) One pair
+♠10,♣5,♣8,♥8,♣Q,(1) One pair
+♠9,♠10,♠J,♥8,♦J,(1) One pair
+♠9,♠10,♠J,♣Q,♦J,(1) One pair
+♠9,♠10,♣8,♥8,♣Q,(1) One pair
+♠9,♠10,♣8,♥8,♦J,(1) One pair
+♠10,♣5,♠J,♣Q,♦J,(1) One pair
+♠10,♣5,♠J,♥8,♦J,(1) One pair
+♠9,♣4,♦8,♣5,♣8,(1) One pair
+♠9,♣4,♦8,♣5,♥8,(1) One pair
+♠9,♣4,♦8,♠J,♣8,(1) One pair
+♠9,♣4,♦8,♠J,♥8,(1) One pair
+♠9,♣4,♦8,♠J,♦J,(1) One pair
+♠10,♣5,♠J,♣8,♦J,(1) One pair
+♠9,♣4,♦8,♣8,♣Q,(1) One pair
+♠9,♣4,♦8,♣8,♦J,(1) One pair
+♠9,♣4,♦8,♥8,♣Q,(1) One pair
+♠9,♣4,♦8,♥8,♦J,(1) One pair
+♠9,♣4,♣5,♠J,♦J,(1) One pair
+♠9,♣4,♣5,♣8,♥8,(1) One pair
+♠9,♣4,♠J,♣8,♥8,(1) One pair
+♠9,♣4,♠J,♣8,♦J,(1) One pair
+♠9,♣4,♠J,♥8,♦J,(1) One pair
+♠9,♣4,♠J,♣Q,♦J,(1) One pair
+♠9,♣4,♣8,♥8,♣Q,(1) One pair
+♠9,♣4,♣8,♥8,♦J,(1) One pair
+♠9,♦8,♣5,♠J,♣8,(1) One pair
+♠9,♦8,♣5,♠J,♥8,(1) One pair
+♠9,♦8,♣5,♠J,♦J,(1) One pair
+♠10,♣5,♠J,♣8,♥8,(1) One pair
+♠9,♦8,♣5,♣8,♣Q,(1) One pair
+♠9,♦8,♣5,♣8,♦J,(1) One pair
+♠9,♦8,♣5,♥8,♣Q,(1) One pair
+♠9,♦8,♣5,♥8,♦J,(1) One pair
+♠10,♦8,♥8,♣Q,♦J,(1) One pair
+♠9,♦8,♠J,♣8,♣Q,(1) One pair
+♠10,♦8,♣8,♣Q,♦J,(1) One pair
+♠9,♦8,♠J,♥8,♣Q,(1) One pair
+♠10,♦8,♠J,♣Q,♦J,(1) One pair
+♠9,♦8,♠J,♣Q,♦J,(1) One pair
+♠10,♦8,♠J,♥8,♣Q,(1) One pair
+♠10,♦8,♠J,♣8,♣Q,(1) One pair
+♠9,♦8,♣8,♣Q,♦J,(1) One pair
+♠9,♦8,♥8,♣Q,♦J,(1) One pair
+♠10,♦8,♣5,♥8,♦J,(1) One pair
+♠9,♣5,♠J,♣8,♦J,(1) One pair
+♠9,♣5,♠J,♥8,♦J,(1) One pair
+♠9,♣5,♠J,♣Q,♦J,(1) One pair
+♠9,♣5,♣8,♥8,♣Q,(1) One pair
+♠9,♣5,♣8,♥8,♦J,(1) One pair
+♠9,♠J,♣8,♥8,♣Q,(1) One pair
+♠10,♦8,♣5,♥8,♣Q,(1) One pair
+♠9,♠J,♣8,♣Q,♦J,(1) One pair
+♠9,♠J,♥8,♣Q,♦J,(1) One pair
+♠9,♣8,♥8,♣Q,♦J,(1) One pair
+♦3,♠10,♣4,♦8,♣8,(1) One pair
+♦3,♠10,♣4,♦8,♥8,(1) One pair
+♦3,♠10,♣4,♠J,♦J,(1) One pair
+♦3,♠10,♣4,♣8,♥8,(1) One pair
+♦3,♠10,♦8,♣5,♣8,(1) One pair
+♦3,♠10,♦8,♣5,♥8,(1) One pair
+♦3,♠10,♦8,♠J,♣8,(1) One pair
+♦3,♠10,♦8,♠J,♥8,(1) One pair
+♦3,♠10,♦8,♠J,♦J,(1) One pair
+♠10,♦8,♣5,♣8,♦J,(1) One pair
+♦3,♠10,♦8,♣8,♣Q,(1) One pair
+♦3,♠10,♦8,♣8,♦J,(1) One pair
+♦3,♠10,♦8,♥8,♣Q,(1) One pair
+♦3,♠10,♦8,♥8,♦J,(1) One pair
+♦3,♠10,♣5,♠J,♦J,(1) One pair
+♦3,♠10,♣5,♣8,♥8,(1) One pair
+♦3,♠10,♠J,♣8,♥8,(1) One pair
+♦3,♠10,♠J,♣8,♦J,(1) One pair
+♦3,♠10,♠J,♥8,♦J,(1) One pair
+♦3,♠10,♠J,♣Q,♦J,(1) One pair
+♦3,♠10,♣8,♥8,♣Q,(1) One pair
+♦3,♠10,♣8,♥8,♦J,(1) One pair
+♦3,♣4,♦8,♣5,♣8,(1) One pair
+♦3,♣4,♦8,♣5,♥8,(1) One pair
+♦3,♣4,♦8,♠J,♣8,(1) One pair
+♦3,♣4,♦8,♠J,♥8,(1) One pair
+♦3,♣4,♦8,♠J,♦J,(1) One pair
+♠10,♦8,♣5,♣8,♣Q,(1) One pair
+♦3,♣4,♦8,♣8,♣Q,(1) One pair
+♦3,♣4,♦8,♣8,♦J,(1) One pair
+♦3,♣4,♦8,♥8,♣Q,(1) One pair
+♦3,♣4,♦8,♥8,♦J,(1) One pair
+♦3,♣4,♣5,♠J,♦J,(1) One pair
+♦3,♣4,♣5,♣8,♥8,(1) One pair
+♦3,♣4,♠J,♣8,♥8,(1) One pair
+♣7,♦8,♣8,♣Q,♦J,(1) One pair
+♦3,♣4,♠J,♥8,♦J,(1) One pair
+♦3,♣4,♠J,♣Q,♦J,(1) One pair
+♦3,♣4,♣8,♥8,♣Q,(1) One pair
+♦3,♣4,♣8,♥8,♦J,(1) One pair
+♦3,♦8,♣5,♠J,♣8,(1) One pair
+♦3,♦8,♣5,♠J,♥8,(1) One pair
+♦3,♦8,♣5,♠J,♦J,(1) One pair
+♠10,♦8,♣5,♠J,♦J,(1) One pair
+♦3,♦8,♣5,♣8,♣Q,(1) One pair
+♦3,♦8,♣5,♣8,♦J,(1) One pair
+♦3,♦8,♣5,♥8,♣Q,(1) One pair
+♦3,♦8,♣5,♥8,♦J,(1) One pair
+♠10,♦8,♣5,♠J,♥8,(1) One pair
+♦3,♦8,♠J,♣8,♣Q,(1) One pair
+♠10,♦8,♣5,♠J,♣8,(1) One pair
+♦3,♦8,♠J,♥8,♣Q,(1) One pair
+♠10,♣4,♣8,♥8,♦J,(1) One pair
+♦3,♦8,♠J,♣Q,♦J,(1) One pair
+♠10,♣4,♣8,♥8,♣Q,(1) One pair
+♠10,♣4,♠J,♣Q,♦J,(1) One pair
+♦3,♦8,♣8,♣Q,♦J,(1) One pair
+♦3,♦8,♥8,♣Q,♦J,(1) One pair
+♦3,♣5,♠J,♣8,♥8,(1) One pair
+♦3,♣5,♠J,♣8,♦J,(1) One pair
+♦3,♣5,♠J,♥8,♦J,(1) One pair
+♦3,♣5,♠J,♣Q,♦J,(1) One pair
+♦3,♣5,♣8,♥8,♣Q,(1) One pair
+♦3,♣5,♣8,♥8,♦J,(1) One pair
+♦3,♠J,♣8,♥8,♣Q,(1) One pair
+♠10,♣4,♠J,♥8,♦J,(1) One pair
+♦3,♠J,♣8,♣Q,♦J,(1) One pair
+♦3,♠J,♥8,♣Q,♦J,(1) One pair
+♦3,♣8,♥8,♣Q,♦J,(1) One pair
+♠10,♣4,♦8,♣5,♣8,(1) One pair
+♠10,♣4,♦8,♣5,♥8,(1) One pair
+♠10,♣4,♦8,♠J,♣8,(1) One pair
+♠10,♣4,♦8,♠J,♥8,(1) One pair
+♠10,♣4,♦8,♠J,♦J,(1) One pair
+♠10,♣4,♠J,♣8,♦J,(1) One pair
+♠10,♣4,♦8,♣8,♣Q,(1) One pair
+♠10,♣4,♦8,♣8,♦J,(1) One pair
+♠10,♣4,♦8,♥8,♣Q,(1) One pair
+♠10,♣4,♦8,♥8,♦J,(1) One pair
+♠10,♣4,♣5,♠J,♦J,(1) One pair
+♠10,♣4,♣5,♣8,♥8,(1) One pair
+♠10,♣4,♠J,♣8,♥8,(1) One pair
+♠10,♠J,♣8,♥8,♦J,(2) Two pairs
+♦3,♠J,♣8,♥8,♦J,(2) Two pairs
+♠J,♣8,♥8,♣Q,♦J,(2) Two pairs
+♣5,♠J,♣8,♥8,♦J,(2) Two pairs
+♦3,♦8,♠J,♥8,♦J,(2) Two pairs
+♦3,♦8,♠J,♣8,♦J,(2) Two pairs
+♦8,♠J,♥8,♣Q,♦J,(2) Two pairs
+♦8,♠J,♣8,♣Q,♦J,(2) Two pairs
+♦8,♣5,♠J,♥8,♦J,(2) Two pairs
+♦8,♣5,♠J,♣8,♦J,(2) Two pairs
+♠K,♦8,♠J,♣8,♦J,(2) Two pairs
+♠9,♠J,♣8,♥8,♦J,(2) Two pairs
+♠K,♦8,♠J,♥8,♦J,(2) Two pairs
+♣4,♠J,♣8,♥8,♦J,(2) Two pairs
+♠K,♠J,♣8,♥8,♦J,(2) Two pairs
+♠10,♦8,♠J,♣8,♦J,(2) Two pairs
+♣4,♦8,♠J,♥8,♦J,(2) Two pairs
+♠10,♦8,♠J,♥8,♦J,(2) Two pairs
+♠9,♦8,♠J,♥8,♦J,(2) Two pairs
+♣4,♦8,♠J,♣8,♦J,(2) Two pairs
+♣7,♦8,♠J,♣8,♦J,(2) Two pairs
+♠9,♦8,♠J,♣8,♦J,(2) Two pairs
+♣7,♦8,♠J,♥8,♦J,(2) Two pairs
+♣7,♠J,♣8,♥8,♦J,(2) Two pairs
+♦8,♣5,♠J,♣8,♥8,(3) Three of a kind
+♠10,♦8,♣5,♣8,♥8,(3) Three of a kind
+♣7,♣4,♦8,♣8,♥8,(3) Three of a kind
+♣4,♦8,♠J,♣8,♥8,(3) Three of a kind
+♦3,♦8,♣8,♥8,♦J,(3) Three of a kind
+♠K,♣7,♦8,♣8,♥8,(3) Three of a kind
+♠9,♣4,♦8,♣8,♥8,(3) Three of a kind
+♠9,♠10,♦8,♣8,♥8,(3) Three of a kind
+♦3,♦8,♣8,♥8,♣Q,(3) Three of a kind
+♠9,♦3,♦8,♣8,♥8,(3) Three of a kind
+♠9,♦8,♣5,♣8,♥8,(3) Three of a kind
+♠K,♦8,♠J,♣8,♥8,(3) Three of a kind
+♠9,♦8,♠J,♣8,♥8,(3) Three of a kind
+♣4,♦8,♣5,♣8,♥8,(3) Three of a kind
+♠10,♦8,♣8,♥8,♦J,(3) Three of a kind
+♣7,♦8,♠J,♣8,♥8,(3) Three of a kind
+♣7,♦8,♣5,♣8,♥8,(3) Three of a kind
+♠K,♠9,♦8,♣8,♥8,(3) Three of a kind
+♦8,♣8,♥8,♣Q,♦J,(3) Three of a kind
+♦3,♦8,♠J,♣8,♥8,(3) Three of a kind
+♠10,♦8,♣8,♥8,♣Q,(3) Three of a kind
+♣7,♠10,♦8,♣8,♥8,(3) Three of a kind
+♠9,♦8,♣8,♥8,♣Q,(3) Three of a kind
+♣7,♦3,♦8,♣8,♥8,(3) Three of a kind
+♣4,♦8,♣8,♥8,♣Q,(3) Three of a kind
+♣4,♦8,♣8,♥8,♦J,(3) Three of a kind
+♣7,♠9,♦8,♣8,♥8,(3) Three of a kind
+♦3,♦8,♣5,♣8,♥8,(3) Three of a kind
+♦8,♠J,♣8,♥8,♣Q,(3) Three of a kind
+♠K,♦3,♦8,♣8,♥8,(3) Three of a kind
+♠K,♠10,♦8,♣8,♥8,(3) Three of a kind
+♦8,♣5,♣8,♥8,♦J,(3) Three of a kind
+♦8,♣5,♣8,♥8,♣Q,(3) Three of a kind
+♠9,♦8,♣8,♥8,♦J,(3) Three of a kind
+♠K,♦8,♣8,♥8,♦J,(3) Three of a kind
+♠10,♦8,♠J,♣8,♥8,(3) Three of a kind
+♠K,♦8,♣8,♥8,♣Q,(3) Three of a kind
+♣7,♦8,♣8,♥8,♣Q,(3) Three of a kind
+♦3,♠10,♦8,♣8,♥8,(3) Three of a kind
+♠10,♣4,♦8,♣8,♥8,(3) Three of a kind
+♣7,♦8,♣8,♥8,♦J,(3) Three of a kind
+♦3,♣4,♦8,♣8,♥8,(3) Three of a kind
+♠K,♦8,♣5,♣8,♥8,(3) Three of a kind
+♠K,♣4,♦8,♣8,♥8,(3) Three of a kind
+♠9,♠10,♣8,♣Q,♦J,(4) Straight
+♠9,♠10,♦8,♣Q,♦J,(4) Straight
+♣7,♠9,♠10,♦8,♦J,(4) Straight
+♣7,♠9,♠10,♠J,♣8,(4) Straight
+♠9,♠10,♥8,♣Q,♦J,(4) Straight
+♣7,♠9,♠10,♣8,♦J,(4) Straight
+♣7,♠9,♠10,♦8,♠J,(4) Straight
+♠9,♠10,♠J,♣8,♣Q,(4) Straight
+♣7,♠9,♠10,♠J,♥8,(4) Straight
+♠9,♠10,♠J,♥8,♣Q,(4) Straight
+♣7,♠9,♠10,♥8,♦J,(4) Straight
+♠9,♠10,♦8,♠J,♣Q,(4) Straight
+♠K,♠9,♠10,♣Q,♦J,(4) Straight
+♠K,♠9,♠10,♠J,♣Q,(4) Straight
+♣7,♣4,♣5,♣8,♣Q,(5) Flush
+♦8,♠J,♣8,♥8,♦J,(6) Full house

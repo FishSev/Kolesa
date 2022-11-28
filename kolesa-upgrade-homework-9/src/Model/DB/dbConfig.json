@@ -1,0 +1,6 @@
+{
+    "servername": "localhost:3306",
+    "username": "root",
+    "password": "your_private_password",
+    "dbname": "adverts"
+}

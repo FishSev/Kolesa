@@ -1,0 +1,14 @@
+H1 {
+    text-shadow:
+        -1px -1px #000,
+        0 1px 0 #444;
+    color: rgb(14, 88, 7);
+    transition: all 1s;
+}
+
+H1:hover {
+    text-shadow:
+        -1px -1px #000,
+        0 1px 0 #444;
+    color: #15e0d6;
+}

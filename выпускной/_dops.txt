@@ -4,3 +4,6 @@ go get gorm.io/gorm
 go get gorm.io/driver/mysql
 
 go run main.go --port=1234 --config="config/local.toml" 
+
+ssh -N -L 8081:localhost:8080 root@176.57.69.55
+__DIR__ . '/../config/local.toml'
